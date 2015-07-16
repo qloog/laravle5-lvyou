@@ -29,7 +29,7 @@
         <section class="head_nav w_1000">
             <ul>
                 <li class='current'><a href='/'>首页</a></li>
-                <li><a href='/introduction' @if >景区介绍</a></li>
+                <li><a href='/introduction'>景区介绍</a></li>
                 <li><a href='javascript:;' >住宿体验</a></li>
                 <li><a href='javascript:;' >娱乐项目</a></li>
                 <li><a href='javascript:;' >美食特色</a></li>
